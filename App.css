@@ -1,0 +1,13 @@
+.navbar {
+  position: fixed; /* Adjust positioning if needed */
+  top: 0; /* Adjust top position if needed */
+  left: 0;
+  height: 50px; /* Adjust height */
+  background-color: black;
+  margin: 100px;
+  padding: 50px;
+}
+  
+*{
+  background-color: orange;
+}
